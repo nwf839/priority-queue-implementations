@@ -1,1 +1,1 @@
-# priority-queue-implementationsProject where I provided 4 different implementations of priority queues eachbacked by different ADT's. The test frameworks were provided beforehand
+# priority-queue-implementationsProject where I provided 4 different implementations of priority queues eachbacked by different ADT's. The virtual class interface and implementations, and test frameworks were provided beforehand
